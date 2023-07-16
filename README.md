@@ -19,11 +19,14 @@ My key skills include: JavaScript, React Native, Node.js and Phoenix.
 Here are some of the projects I have worked on:
 (You can find then on my pinned projects)
 
-# Project 1 - Jukebox
+# Jukebox
 A web application with React and Tailwind CSS, and Phoenix for the backend, where clients can submit YouTube links to a playlist, and they can watch simultaneously.
 
-# Project 2 - RGB led controller
+# RGB led controller
 An application for communication with Arduino Uno to control LEDs via Bluetooth.
+
+# DailyFood
+React Native Expo application that receives food weighing data via Bluetooth and sends it to a Phoenix backend to generate nutritional reports at specific intervals.
 
 ## Current work
 - 🔭 Working on full stack development with react native and nodejs
